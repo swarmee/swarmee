@@ -1,6 +1,6 @@
 
 
-!["✨ Swarmee's Profile ✨, Home of FI-Comp 🗠, Join Us Following the Money](https://github.com/swarmee/swarmee/raw/main/swarmee-profile.gif)
+[!["✨ Swarmee's Profile ✨, Home of FI-Comp 🗠, Join Us Following the Money](https://github.com/swarmee/swarmee/raw/main/swarmee-profile.gif)](http://www.swarmee.net/)
 
 Visit our Website [🌐](https://www.swarmee.net) for details.
 
