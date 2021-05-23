@@ -1,13 +1,6 @@
 ### Hi there 👋
 
-![Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️](https://github.com/swarmee/swarmee/raw/main/swarmee-profile.gif)
-
-
-    <div class="myvideo">
-    <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
-       <source src="https://github.com/swarmee/swarmee/raw/main/swarmee-profile.webm"  type="video/webm"  />
-    </video>
-    </div>
+!["✨ Swarmee's Profile ✨, Home of FI-Comp 🗠, Join Us Following the Money](https://github.com/swarmee/swarmee/raw/main/swarmee-profile.gif)
 
 <!--
 ![Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️](https://github.com/swarmee/swarmee/raw/main/swarmee-profile.gif)
